@@ -1,0 +1,25 @@
+.iconos{padding: 50px;
+    font-size: 30px;
+    text-align: center;}
+
+form{border:2px solid #000000;
+padding: 20px;
+background-color: #e7d68a;
+border-radius: 20px;}
+
+
+footer{background-color: #000000;
+        border: 2px solid #06091b;
+        margin: 20px 0px;
+        padding: 20px;
+    border-radius: 20px;
+color: white;}
+
+nav div p{margin-right:350px;}
+
+.pacifico-regular {font-family: "pacifico";
+font-size:xx-large;
+color: #c5a514;}
+
+li{list-style: none;}
+
